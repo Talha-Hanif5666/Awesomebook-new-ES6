@@ -1,0 +1,10 @@
+export const form = document.querySelector('#postBook');
+export const title = document.querySelector('#title');
+export const author = document.querySelector('#author');
+export const displayArea = document.querySelector('#showBooks');
+export const list = document.querySelector('#booksshow');
+export const addNew = document.querySelector('#new');
+export const contact = document.querySelector('#contact');
+export const addBook = document.querySelector('#adding');
+export const contactInfo = document.querySelector('#reachme');
+export const dates = document.querySelector('#date');
