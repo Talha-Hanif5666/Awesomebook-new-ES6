@@ -48,7 +48,7 @@
 
 > Our live demo can be found on
 
-- [Live Demo Link](https://Talha-Hanif5666.github.io/AwsomeBooks-new-ES6/)
+- [Live Demo Link](https://talha-hanif5666.github.io/Awesomebook-new-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
